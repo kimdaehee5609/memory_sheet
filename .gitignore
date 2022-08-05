@@ -1,3 +1,4 @@
+
 *.aux
 *.fls
 *.log
@@ -8,3 +9,11 @@
 *.toc
 *.lot
 *.gz
+*.idx
+*.lof
+*.nav
+*.snm
+*.ps
+*.dvi
+*.vrb
+*.bbl
